@@ -13,8 +13,5 @@
         "psr-4": {
             "dwayde\\hwpackage\\": "src/"
         }
-    },
-    "require": {
-        "danielstjules/stringy": "^3.1"
     }
 }
