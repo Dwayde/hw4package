@@ -1,6 +1,7 @@
 {
     "name": "dwayde/hwpackage",
     "description": "HW4Otus",
+    "type": "package",
     "license": "proprietary",
     "authors": [
         {
