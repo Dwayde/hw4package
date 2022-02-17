@@ -1,0 +1,19 @@
+{
+    "name": "dwayde/hwpackage",
+    "description": "HW4Otus",
+    "license": "top-secret",
+    "authors": [
+        {
+            "name": "Maksim Potapov",
+            "email": "klnpotap@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Otus\\hwpackage\\": "src/"
+        }
+    },
+    "require": {
+        "danielstjules/stringy": "^3.1"
+    }
+}
